@@ -1,5 +1,7 @@
-Fake News Detection
-📌 Description
+# Fake News Detection
+
+
+## Description
 
 This project is a Fake News Detection system that uses Machine Learning and Natural Language Processing (NLP) techniques to classify news articles as real or fake based on their textual content.
 
